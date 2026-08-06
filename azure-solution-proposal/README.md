@@ -1,1 +1,1 @@
-
+Mock Azure solution proposal simulating a pre-sales discovery engagement for a 12-store grocery client. Recommends an Azure PaaS architecture (App Service, SQL Database, Front Door, Backup, Monitor) with cost estimate and 10-week migration plan.
