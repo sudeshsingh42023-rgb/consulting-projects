@@ -12,5 +12,3 @@ A mock pre-sales case study for a 12-store grocery client facing site outages, d
 A business strategy case study identifying where a competitor was losing customer trust, using real user-reported complaints and reviews as research input. Prioritizes candidate problems using the RICE framework (Reach × Impact × Confidence ÷ Effort) to produce a defensible, data-backed recommendation.
 **Tools:** Excel (weighted scoring, dashboards), Secondary Research, Data-Driven Prioritization
 
----
-**About me:** B.Tech student at NIT Agartala, exploring the intersection of technology and business consulting. [LinkedIn](https://linkedin.com/in/Sudesh-Singh)
