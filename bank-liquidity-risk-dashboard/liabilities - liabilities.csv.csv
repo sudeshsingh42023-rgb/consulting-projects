@@ -1,0 +1,6 @@
+Item_name,Category,Amount,Maturity_bucket
+Stable Retail Deposits,Retail Deposits,290000,0-30 days
+Less-Stable Retail Deposits,Retail Deposits,50000,0-30 days
+Wholesale Funding (Bank Counterparty),Wholesale Funding,40000,0-30 days
+Corporate Operational Deposits,Corporate Deposits,30000,30-90 days
+Long-Term Debt Issued,Wholesale Funding,190000,>1 year

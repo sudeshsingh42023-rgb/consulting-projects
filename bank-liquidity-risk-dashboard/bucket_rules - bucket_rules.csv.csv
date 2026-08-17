@@ -1,0 +1,9 @@
+Category,Side,Factor_type,Factor_pct,Notes
+Cash,asset,haircut_pct,0,Level 1 HQLA - no haircut
+Govt Bonds,asset,haircut_pct,0,Level 1 HQLA - verify against current Basel table
+Corporate Bonds,asset,haircut_pct,15,Level 2A HQLA - verify exact % for rating band
+Retail Loans,asset,haircut_pct,100,Not HQLA-eligible - illiquid
+Corporate Loans,asset,haircut_pct,100,Not HQLA-eligible - illiquid
+Retail Deposits,liability,runoff_pct,5,Stable deposits - verify split stable vs less-stable
+Wholesale Funding,liability,runoff_pct,100,Unsecured wholesale <30 days
+Corporate Deposits,liability,runoff_pct,25,Operational relationship - verify exact %

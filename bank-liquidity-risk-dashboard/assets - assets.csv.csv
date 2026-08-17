@@ -1,0 +1,6 @@
+Item_name,Category,Amount,Maturity_bucket
+Cash Reserves,Cash,700000,0-30 days
+Government Bonds (Level 1 HQLA),Govt Bonds,1300000,0-30 days
+Corporate Bonds AA-rated (Level 2A HQLA),Corporate Bonds,700000,30-90 days
+Retail Mortgage Loans,Retail Loans,2000000,>1 year
+Corporate Term Loans,Corporate Loans,1200000,90-365 days
